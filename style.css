@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+}
+.home-page1{
+    background-image: url("https://analyticsindiamag.com/wp-content/uploads/2019/05/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d-1540x866.jpg");
+    height: 100vh;
+    width: 100vw;
+}
+.home-logo{
+    height:150px;
+    width: 250px;
+}
+.sign-in{
+    background-color: #e50914;
+    color: white;
+    border:2px solid #e50914;
+    border-radius: 10px ;
+    height: 40px;
+    width: 80px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+.dropdown{
+    color: white;
+    float: right;
+    margin-top: 55px;
+    margin-right: 50px;
+}
+.dropdown{
+    background-color: transparent;
+    height: 30px;
+    width: 125px;
+    border-radius: 5px;
+    text-align: center;
+}
+.dropvalue{
+    color: black;
+}
+.home-heading{
+    color: white;
+    text-align: center;
+}
+.home-text{
+    margin-top: 140px;
+    
+}
+h1{
+    font-family: "Archivo Black", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    margin: 35px;
+}
+h4{
+   margin: 35px;
+}
+h5{
+
+    margin: 35px;
+}
+.get-started{
+    background-color: #e50914;
+    color: white;
+    border:2px solid #e50914;
+    border-radius: 10px ;
+    height: 53px;
+    width: 160px;
+    margin-left: 10px;
+}
+.searchbox{
+    background-color: transparent;
+    border-style: solid;
+    border: 1px solid gray;
+    border-radius: 1px;
+    height:53px;
+    width: 400px;
+    border-radius: 20px solid black;
+    
+}.searcher{
+    text-align: center;
+}
