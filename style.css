@@ -3,8 +3,8 @@
 }
 .home-page1{
     background-image: url("https://analyticsindiamag.com/wp-content/uploads/2019/05/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d-1540x866.jpg");
-    height: 100vh;
-    width: 100vw;
+    height: 90vh;
+    background-size: cover;
 }
 .home-logo{
     height:150px;
@@ -49,14 +49,16 @@ h1{
     font-family: "Archivo Black", sans-serif;
     font-weight: bold;
     font-style: normal;
-    margin: 35px;
+    margin: 30px;
 }
 h4{
-   margin: 35px;
+   margin: 30px;
 }
 h5{
 
-    margin: 35px;
+    margin: 30px;
+    font-size: 22px;
+    
 }
 .get-started{
     background-color: #e50914;
@@ -71,11 +73,78 @@ h5{
     background-color: transparent;
     border-style: solid;
     border: 1px solid gray;
-    border-radius: 1px;
+    border-radius: 8px;
     height:53px;
     width: 400px;
-    border-radius: 20px solid black;
     
 }.searcher{
     text-align: center;
+}
+
+hr{
+    margin: 0px;
+    border-width: 10px;
+    color: #232323; 
+}
+
+.bg-containetr{
+    background-color: black;
+
+    background-size: cover;
+}
+.heading1{
+    color: white;
+    font-family: "Archivo Black", sans-serif;
+    padding-left: 210px;
+    
+}
+.paragraph1{
+    color: white;
+    font-size: 23px;
+    padding-left: 210px;
+    
+}
+.image-bottom1{
+    padding-right: 120px; 
+    padding-bottom: 60px;   
+}
+.heading2{
+    color: white;
+    font-family: "Archivo Black", sans-serif;
+    padding-right: 250px;
+    padding-top: 50px;
+
+}
+.paragraph2{
+    color: white;
+    font-size: 23px;   
+}
+.image-bottom2{
+    padding-bottom: 60px;
+}
+.image-bottom3{
+    padding-top: 50px;
+    padding-right: 120px;
+    padding-bottom: 60px;
+}
+.paragraph3{
+    color: white;
+    font-size: 22px;
+    padding-left: 210px;
+}
+.heading4{
+    color: white;
+    font-family: "Archivo Black", sans-serif;
+    padding-right: 250px;
+    padding-top: 50px;
+
+}
+.paragraph4{
+    color: white;
+    font-size: 23px;
+    padding-right: 250px;
+}  
+.image-bottom4{
+    padding-left: 150px;
+    padding-bottom: 60px;
 }
